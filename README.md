@@ -7,8 +7,9 @@ I operate as an independent music producer and mixing and mastering engineer und
 ### Technical Stack
 * C++
 * JUCE Framework
-* MATLAB
 * Digital Signal Processing
+* Visual Studio 2026 Community
+* MATLAB
 
 * ### Current Development
 * **BananaGain**: I am actively writing this audio gain plugin.
