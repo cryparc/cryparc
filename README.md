@@ -1,2 +1,22 @@
-# cryparc
-Prashant Singh | Audio Software Engineer & Music Producer I created this GitHub profile in June 2026 to document my technical projects. I am entirely new to GitHub and currently learning repository management.  I am an undergraduate student pursuing a B.Tech in Electronics and Communication Engineering at AKGEC. My primary focus is bridging hardware engineering principles with software digital signal processing.  I also operate as an independent music producer and mixing and mastering engineer under the alias CRYPARC. I specialize in Hip Hop Trap Drill and Phonk using FL Studio. I am building audio plugins to solve direct workflow needs in my own mixing chains.  Technical Stack C++  JUCE Framework  MATLAB  Digital Signal Processing  Current Development BananaGain: I am actively writing this audio gain plugin.  Dual Channel Digital Audio Synthesis and Real Time DSP Analytics Architecture: I am starting work on this final year major project in late June. This will be a multi semester build focusing heavily on real time audio generation and analytics.  Upcoming Projects & Reference Material BananaEQ: I will begin building this equalizer plugin immediately after completing BananaGain.  BananaTremolo: Please note this specific repository is a copied project used for study and reference. It is not my original code.  Practical Application I test my C++ DSP algorithms directly in my professional production workflow. You can hear my ear for mixing and mastering on my original released track KL24 and my remix of The Lost Girls.
+# Prashant Singh | Audio Software Engineer & Music Producer
+
+I am an undergraduate student in my 7th semester pursuing a B.Tech in Electronics and Communication Engineering at AKGEC. My primary focus is bridging hardware engineering principles with software digital signal processing. I started actively documenting my technical projects in June 2026.
+
+I operate as an independent music producer and mixing and mastering engineer under the alias CRYPARC. My independent music label is DJ PSDON. I specialize in all major genres using FL Studio. I build audio plugins to solve direct workflow needs in my own production and mixing chains.
+
+### Technical Stack
+* C++
+* JUCE Framework
+* MATLAB
+* Digital Signal Processing
+
+* ### Current Development
+* **BananaGain**: I am actively writing this audio gain plugin.
+* **Dual Channel Digital Audio Synthesis and Real Time DSP Analytics Architecture**: I am starting work on this final year major project in late June. This is a multi semester build focusing heavily on real time audio generation and analytics.
+
+* ### Upcoming Projects & Reference Material
+* **BananaEQ**: I will begin building this equalizer plugin immediately after completing BananaGain.
+* **BananaTremolo**: This repository is a copied project used for study and reference. It is not my original code.
+
+* ### Practical Application
+I test my C++ DSP algorithms directly in my professional production workflow. You can hear my mixing and mastering work on my original released tracks KL24 Nilavaram and Kedu Paad. I have many unreleased tracks available upon request.
