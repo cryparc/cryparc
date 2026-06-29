@@ -21,3 +21,14 @@ I operate as an independent music producer and mixing and mastering engineer und
 
 * ### Practical Application
 I test my C++ DSP algorithms directly in my professional production workflow. You can hear my mixing and mastering work on my original released tracks KL24 Nilavaram and Kedu Paad. I have many unreleased tracks available upon request.
+
+
+<a href="https://www.linkedin.com/in/cryparc" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.youtube.com/@cryparc" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="mailto:cryparcmusic@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
