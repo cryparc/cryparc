@@ -12,7 +12,7 @@ I operate as an independent music producer and mixing and mastering engineer und
 * MATLAB
 
 * ### Current Development
-* **BananaGain**: I am actively writing this audio gain plugin.
+* **BananaGain**: I am actively writing this audio gain plugin.(Initial Versions are available for testing under the "Source" on the BananaGain Repo- Only in VST3 format for now)
 * **Dual Channel Digital Audio Synthesis and Real Time DSP Analytics Architecture**: I am starting work on this final year major project in late June. This is a multi semester build focusing heavily on real time audio generation and analytics.
 
 * ### Upcoming Projects & Reference Material
