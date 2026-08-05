@@ -2,7 +2,7 @@
 
 I am an undergraduate student in my 7th semester pursuing a B.Tech in Electronics and Communication Engineering at AKGEC. My primary focus is bridging hardware engineering principles with software digital signal processing.
 
-Operating as an independent music producer and mixing/mastering engineer under the alias CRYPARC (DJ PSDON label), I specialize in Trap, Drill, Phonk, and Hip-Hop. I build custom VST3 audio plugins to directly solve workflow bottlenecks within my own track production cycles in FL Studio.
+Operating as an independent music producer and mixing/mastering engineer under the alias CRYPARC (DJ PSDON label), I specialize in all major genres. I build custom VST3 audio plugins to directly solve workflow bottlenecks within my own track production cycles in FL Studio.
 
 ### 🛠️ Technical Stack
 * **Languages:** C++, Rust, MATLAB
