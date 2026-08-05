@@ -14,9 +14,9 @@ Operating as an independent music producer and mixing/mastering engineer under t
 
 ### 🚀 Public & Active Development
 * **SPANDAN:** My final-year major B.Tech project. A Dual-Channel Digital Audio Synthesis and Real-Time DSP Analytics Architecture focusing heavily on real-time audio generation.
-* **BananaGain:** A streamlined gain utility plugin inspired by Fruity Balance, built with C++ and JUCE. Features custom DSP and optimized component rendering.
-* **SurmalaSaptak:** A real-time Auto-Key style pitch detection and mapping plugin.
 
 ### 🔬 Private R&D & WIP Lab
+* **BananaGain:** A streamlined gain utility plugin inspired by Fruity Balance, built with C++ and JUCE. Features custom DSP and optimized component rendering.
+* **SurmalaSaptak:** A real-time Auto-Key style pitch detection and mapping plugin.
 * **NAADHVEDH & SurmalaSitar:** Algorithmic MIDI generation engines. Currently in the lab refining the core mathematical models and scaling functions.
 * **BananaEQ & BananaSat:** A 3-band EQ and a saturation unit currently undergoing UI overhauls and DSP optimization before public release.
